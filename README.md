@@ -55,7 +55,7 @@ Once the script is running, it will open your webcam and start tracking your han
 
 Watch the demo video of the project in action:
 
-[![InvisiClick Demo](https://github.com/myself-aas/InvisiClick/blob/main/InvisiClick.mp4)](https://github.com/myself-aas/InvisiClick/blob/main/InvisiClick.mp4)
+[InvisiClick Demo](https://github.com/myself-aas/InvisiClick/blob/main/InvisiClick.mp4)
 
 ## Optimizations for Low-End PCs
 
